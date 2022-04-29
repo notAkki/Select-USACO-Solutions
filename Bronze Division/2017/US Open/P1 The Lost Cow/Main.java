@@ -30,6 +30,7 @@ public class Main {
                 }
             }
         }
+        
         out.println (total);
         out.close();
     }
